@@ -7,7 +7,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_screenshot.png.png)
+![Dashboard](dashboard_screenshot.png)
 
 ## Project Overview
 This dashboard analyzes:
