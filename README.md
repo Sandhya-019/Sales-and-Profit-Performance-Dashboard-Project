@@ -16,6 +16,12 @@ This dashboard analyzes:
 - Regional analysis
 - Business KPIs
 
+## Dashboard Features
+- KPI Cards
+- Interactive Slicers
+- Category Analysis
+- Region-wise Performance Tracking
+
 ## Key Insights
 - West region generated highest sales
-- Copiers Sub category had strong profitability
+- Copiers Sub category showed strong profitability
